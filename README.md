@@ -59,14 +59,14 @@ The project is organized as follows:
 ## Test result
 
 ### Test client
-![image](https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.15752-9/371925867_1719528808476469_8442435565357802942_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mNdWjKLrBzwAX8dh4t1&_nc_ht=scontent.fsgn4-1.fna&oh=03_AdTV6FK80E0HemibpJAaxXkxZqlAKZeTlQsP8kDm_PfqEw&oe=651552D2)
+![image](Pictures/send_hercules.jpg)
 
 ### Test server
 
 1. Hercules
-![image](https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.15752-9/371301394_1544614479697943_2297656502897462021_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XS5oU-2YRXQAX9hDhkp&_nc_oc=AQmLUWSBci1uREzOAAy6M6YQtv7gAh15suCoAs1Wj6zI8UfVahJv947AUuqDW4UcQDY&_nc_ht=scontent.fsgn4-1.fna&oh=03_AdTQ2Tl-_1vaLmkEG51nHywIIXfguFppJzMsw-Fdn7LDRQ&oe=65154159)
+![image](Pictures/receive.jpg)
 
 2. Python application
-![image](https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/370609241_2215780845295959_6785097095752452020_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=60zV9Z5eLqcAX991qrP&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSJR14_U2OwndYZS-WndX2pwJq21J9DPx3ZCCQQ57I_PQ&oe=65154AB1)
+![image](Pictures/send_python.jpg)
 
 ## Reference
