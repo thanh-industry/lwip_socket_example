@@ -58,15 +58,17 @@ The project is organized as follows:
 
 ## Test result
 
-### Test client
-![image](Pictures/send_hercules.jpg)
+### Test STM32 client sending data to server and receiving data form server 
+![image](Pictures/receive.jpg)
 
 ### Test server
 
-1. Hercules
-![image](Pictures/receive.jpg)
+#### Test server using Hercules tool to check the client connection status, data received from client and send data to client
+   
+![image](Pictures/send_hercules.jpg)
 
-2. Python application
+#### Test server using Python application to receive data form client, check the size of data received and send data to client
+
 ![image](Pictures/send_python.jpg)
 
 ## Reference
