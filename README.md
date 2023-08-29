@@ -56,12 +56,12 @@ The project is organized as follows:
 4. Run python socket_server.py or use Hercules SETUP utility to run server application.
 5. Use debugging tools to monitor the status of the communication.
 
-## Testing result
+## Test result
 
-### Testing client
+### Test client
 ![image](https://github.com/phuntp040902/stm32_lwip_tcp/assets/130150674/f358347f-35ff-4e7b-8e3e-11c9be0cc4ed)
 
-### Testing server
+### Test server
 
 1. Hercules
 ![image](https://github.com/phuntp040902/stm32_lwip_tcp/assets/130150674/6af86771-4bf9-4b69-9ffd-91dc4e02883f)
