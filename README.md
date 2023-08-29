@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains an example project that demonstrates how to use the LWIP (Lightweight IP) library and FREERTOS on an STM32 microcontroller to send and receive data using socket API. The example showcases the setup and usage of LWIP to establish network communication over Ethernet and demonstrates client functionality.
+This repository contains an example project that demonstrates how to use the LWIP (Lightweight IP) library and FREERTOS on an STM32 microcontroller, specifically STM32F429ZIT6 Nucleo board, to send and receive data using socket API. The example showcases the setup and usage of LWIP to establish network communication over Ethernet and demonstrates client functionality.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ Before you begin, ensure that you have the following prerequisites:
 
 3. Build and flash the client applications code to separate STM32 development boards.
 4. Run python socket_server.py or use Hercules SETUP utility to run server application.
-5. Use debugging tools to monitor the status of the communication.
+5. Use debugging tools to monitor the status of the communication and the messages communicated by the client.
 
 ## Test result
 
