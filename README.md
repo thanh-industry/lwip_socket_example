@@ -57,3 +57,4 @@ Before you begin, ensure that you have the following prerequisites:
 ![image](Pictures/send_python.jpg)
 
 ## Reference
+We have a related blog post with further details on this example, which you can find here for reference: https://www.industry.com.vn/an-overview-of-lightweight-internet-protocol/
